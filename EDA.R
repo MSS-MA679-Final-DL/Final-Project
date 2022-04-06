@@ -1,7 +1,6 @@
 # load package
 pacman::p_load(tidyverse,R.matlab)
 theme_set(theme_bw())
-setwd("/Users/zeningye/Desktop/Class/MSSP/MA 679/Project Mouse")
 #-------------------------------------------------------------------------------
 # Direct Interaction
 
